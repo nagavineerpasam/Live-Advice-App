@@ -2,7 +2,7 @@
   "name": "adviceapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nagavineerpasam/Live-Advice-App",
+  "homepage": "https://nagavineerpasam.github.io/Live-Advice-App/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
