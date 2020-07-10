@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nagavineerpasam/Live-Advice-App/static/css/main.30a6e9ac.chunk.css",
+    "main.js": "/nagavineerpasam/Live-Advice-App/static/js/main.2af952c4.chunk.js",
+    "main.js.map": "/nagavineerpasam/Live-Advice-App/static/js/main.2af952c4.chunk.js.map",
+    "runtime-main.js": "/nagavineerpasam/Live-Advice-App/static/js/runtime-main.a548b0b0.js",
+    "runtime-main.js.map": "/nagavineerpasam/Live-Advice-App/static/js/runtime-main.a548b0b0.js.map",
+    "static/js/2.b4d54544.chunk.js": "/nagavineerpasam/Live-Advice-App/static/js/2.b4d54544.chunk.js",
+    "static/js/2.b4d54544.chunk.js.map": "/nagavineerpasam/Live-Advice-App/static/js/2.b4d54544.chunk.js.map",
+    "index.html": "/nagavineerpasam/Live-Advice-App/index.html",
+    "precache-manifest.760345ef02f1646f016c33fc9cdb572d.js": "/nagavineerpasam/Live-Advice-App/precache-manifest.760345ef02f1646f016c33fc9cdb572d.js",
+    "service-worker.js": "/nagavineerpasam/Live-Advice-App/service-worker.js",
+    "static/css/main.30a6e9ac.chunk.css.map": "/nagavineerpasam/Live-Advice-App/static/css/main.30a6e9ac.chunk.css.map",
+    "static/js/2.b4d54544.chunk.js.LICENSE.txt": "/nagavineerpasam/Live-Advice-App/static/js/2.b4d54544.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nagavineerpasam/Live-Advice-App/static/media/star.2f1b479b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a548b0b0.js",
+    "static/js/2.b4d54544.chunk.js",
+    "static/css/main.30a6e9ac.chunk.css",
+    "static/js/main.2af952c4.chunk.js"
+  ]
+}
