@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "483da033ad8a59cfc1a3ce5ba370a306",
+    "revision": "27cd6fd3bfc0edceed8e344577147a46",
     "url": "/Live-Advice-App/index.html"
   },
   {
-    "revision": "2b8d6d37e8dbe7dd53c2",
-    "url": "/Live-Advice-App/static/css/main.c404720b.chunk.css"
+    "revision": "a8d2ae978a663d94a039",
+    "url": "/Live-Advice-App/static/css/main.89bdd28b.chunk.css"
   },
   {
     "revision": "97671d056a701b1692b1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Live-Advice-App/static/js/2.b4d54544.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b8d6d37e8dbe7dd53c2",
+    "revision": "a8d2ae978a663d94a039",
     "url": "/Live-Advice-App/static/js/main.2af952c4.chunk.js"
   },
   {

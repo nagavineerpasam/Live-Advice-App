@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Live-Advice-App/static/css/main.c404720b.chunk.css",
+    "main.css": "/Live-Advice-App/static/css/main.89bdd28b.chunk.css",
     "main.js": "/Live-Advice-App/static/js/main.2af952c4.chunk.js",
     "main.js.map": "/Live-Advice-App/static/js/main.2af952c4.chunk.js.map",
     "runtime-main.js": "/Live-Advice-App/static/js/runtime-main.991f7ada.js",
@@ -8,16 +8,16 @@
     "static/js/2.b4d54544.chunk.js": "/Live-Advice-App/static/js/2.b4d54544.chunk.js",
     "static/js/2.b4d54544.chunk.js.map": "/Live-Advice-App/static/js/2.b4d54544.chunk.js.map",
     "index.html": "/Live-Advice-App/index.html",
-    "precache-manifest.b89e94750c85cebf4b54cfbbcb145551.js": "/Live-Advice-App/precache-manifest.b89e94750c85cebf4b54cfbbcb145551.js",
+    "precache-manifest.a4aed0551f54e879f79c21ca905d8531.js": "/Live-Advice-App/precache-manifest.a4aed0551f54e879f79c21ca905d8531.js",
     "service-worker.js": "/Live-Advice-App/service-worker.js",
-    "static/css/main.c404720b.chunk.css.map": "/Live-Advice-App/static/css/main.c404720b.chunk.css.map",
+    "static/css/main.89bdd28b.chunk.css.map": "/Live-Advice-App/static/css/main.89bdd28b.chunk.css.map",
     "static/js/2.b4d54544.chunk.js.LICENSE.txt": "/Live-Advice-App/static/js/2.b4d54544.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Live-Advice-App/static/media/star.2f1b479b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.991f7ada.js",
     "static/js/2.b4d54544.chunk.js",
-    "static/css/main.c404720b.chunk.css",
+    "static/css/main.89bdd28b.chunk.css",
     "static/js/main.2af952c4.chunk.js"
   ]
 }
